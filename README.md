@@ -2,7 +2,7 @@
 
 #### _A practice application using Ruby, Gem & Pry. 5.12.2020_
 
-#### By _**Allison Mackey, Reid Ashwill, & Christine Augustine**_
+#### By _**Allison Mackey, Reid Ashwill**_
 
 ## Description
 
